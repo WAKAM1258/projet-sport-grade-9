@@ -84,7 +84,7 @@ const portfolioData = {
   metaClass:   "Grade 9",
 
   /* ── SURF ── */
-  surfDuration: "12 jours intensifs (6h/jour)",
+  surfDuration: "3 semaines (4 à 6h/jour)",
   surfLevel:   "Intermédiaire",
   surfPlace:   "Tafraout, Maroc",
   surfBoard:   "Egg (location) pour la stabilité, puis Fish 6'1 pour les sensations.",
@@ -100,7 +100,7 @@ const portfolioData = {
 
   /* ── MÉTHODES ── */
   methodTrain: "Entraînement fun et motivant avec mes amis.",
-  methodFreq:  "Surf : 6h/j (12j) | Trot : 2h/j (15j)",
+  methodFreq:  "Surf : 4 à 6h/j (3 sem.) | Trot : 3h/j (4 sem.)",
   methodVideo: "Visionnage de vidéos de surf pour corriger mes postures.",
   methodGoal:  "Maîtriser la planche Fish (défi relevé à moitié !).",
 

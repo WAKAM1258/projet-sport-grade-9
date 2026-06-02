@@ -46,7 +46,7 @@ je te rajoute ca
 Pour mon portfolio de sport, j’ai choisi de parler des sports de glisse, car ce sont des activités que j’apprécie particulièrement et que je pratique régulièrement. Les deux sports principaux que j’ai exercés sont le surf et la trottinette.
 Grâce à ces disciplines, j’ai pu développer plusieurs compétences comme l’équilibre, la persévérance, la coordination et la confiance en moi. Les sports de glisse demandent aussi beaucoup de patience et de pratique pour progresser.
 Dans ce projet, je vais surtout approfondir le surf, en expliquant plus en détail mon expérience, ce que ce sport m’a appris, ainsi que son importance pour moi.
-Pendant environ 10 jours, j’ai réalisé de longues sessions de surf pouvant durer jusqu’à 6 heures par jour. J’ai principalement utilisé une planche “Egg” de location, qui était adaptée pour progresser et travailler ma stabilité dans les vagues. J’ai aussi eu l’occasion de surfer pendant deux jours avec une planche “Fish” de 6’1 feet, qui offrait des sensations différentes et demandait plus de contrôle et de précision.
+Pendant environ 3 semaines, j’ai réalisé de longues sessions de surf de 4 à 6 heures par jour. J’ai principalement utilisé une planche “Egg” de location, qui était adaptée pour progresser et travailler ma stabilité dans les vagues. J’ai aussi eu l’occasion de surfer pendant deux jours avec une planche “Fish” de 6’1 feet, qui offrait des sensations différentes et demandait plus de contrôle et de précision.
 Les conditions des vagues variaient selon les jours, ce qui m’a permis d’apprendre à m’adapter à différents types de surf. J’ai remarqué que les meilleures conditions étaient souvent le matin, pendant la marée montante, car les vagues étaient plus propres et plus agréables à surfer.
 Cette expérience m’a permis d’améliorer mon endurance, ma technique et ma compréhension de l’océan et des conditions de surf.
 Le surf est un sport qui peut se pratiquer à tous les niveaux. Pour ma part, j’ai commencé avec une planche “Egg”, car j’avais déjà un peu d’expérience. Cependant, les débutants commencent souvent avec un longboard, une planche plus longue et plus stable, donc plus facile à maîtriser. À l’inverse, les surfeurs plus expérimentés peuvent utiliser des planches plus courtes, comme une “Fish” de 5’1 feet, qui sont plus techniques mais aussi plus maniables et rapides.
@@ -84,7 +84,7 @@ Cette expérience a aussi été très agréable, car j’étais avec des amis pe
 ➜ j'ai pratiquer mes deux sport avec les même amis est ca a vraime,nt étais top 
 
 **Q18 : Combien de fois par semaine tu pratiques environ ?**
-➜ j'ai pratiquer le surf a peux prés 6h par jour pendant 12jour est la trotiennte ca dépendais mais a peux prés 2h jour pendant 15j 
+➜ j'ai pratiqué le surf entre 4 et 6h par jour pendant 3 semaines et la trottinette 3h par jour pendant 4 semaines
 
 **Q19 : Est-ce que tu regardes des vidéos / tutos pour progresser ?**
 ➜ j'ai regarder qlq vidéo de surf pour progrésser oui 
